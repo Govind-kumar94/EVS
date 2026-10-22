@@ -1,0 +1,6 @@
+{
+  "name": "AquaPlan AI — Intelligent Water Supply Forecasting & Optimization Platform",
+  "description": "Municipal water authority decision-support system for AI demand forecasting, shortage prediction, abnormal water loss detection, and distribution optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
